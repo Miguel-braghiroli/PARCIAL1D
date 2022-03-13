@@ -7,5 +7,15 @@ namespace PARCIAL1D.models
 {
     public class DetalleOrdenes
     {
+        public int DetalleOrdenId { get; set; }
+        public int EncabezadoOrdenId { get; set; }
+        public int EmpresaId { get; set; }
+        public int PlatoId { get; set; }
+        public String Comentarios { get; set; }
+        public decimal DescuentoEspecial { get; set; }
+        public decimal RecargoOrden { get; set; }
+        public String Estado { get; set; }
+        public DateTime FechaCreacion { get; set; }
+        public DateTime FechaModificacion { get; set; }
     }
 }
