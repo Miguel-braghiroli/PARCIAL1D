@@ -114,6 +114,7 @@ C:\UNICAESWEB\PARCIAL1D\obj\Debug\net5.0\PARCIAL1D.pdb
 C:\UNICAESWEB\PARCIAL1D\obj\Debug\net5.0\PARCIAL1D.genruntimeconfig.cache
 C:\UNICAESWEB\PARCIAL1D\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\UNICAESWEB\PARCIAL1D\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+<<<<<<< HEAD
 C:\Users\bragh\Downloads\PARCIAL1D-main\PARCIAL1D-main\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\bragh\Downloads\PARCIAL1D-main\PARCIAL1D-main\bin\Debug\net5.0\appsettings.json
 C:\Users\bragh\Downloads\PARCIAL1D-main\PARCIAL1D-main\bin\Debug\net5.0\PARCIAL1D.StaticWebAssets.xml
@@ -173,3 +174,5 @@ C:\Users\bragh\Downloads\PARCIAL1D-main\PARCIAL1D-main\obj\Debug\net5.0\PARCIAL1
 C:\Users\bragh\Downloads\PARCIAL1D-main\PARCIAL1D-main\obj\Debug\net5.0\ref\PARCIAL1D.dll
 C:\Users\bragh\Downloads\PARCIAL1D-main\PARCIAL1D-main\obj\Debug\net5.0\PARCIAL1D.pdb
 C:\Users\bragh\Downloads\PARCIAL1D-main\PARCIAL1D-main\obj\Debug\net5.0\PARCIAL1D.genruntimeconfig.cache
+=======
+>>>>>>> 85967ad5c09d0b9495d335bb5d1b2a78c9e07e0f
