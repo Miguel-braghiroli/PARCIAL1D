@@ -9,34 +9,34 @@ namespace PARCIAL1D.models
     public class Platos
     {
         [Key]
-        public int platoId { get; set; }
-        public int EmpresaId { get; set; }
+        public int PlatoId { get; set; }
+        public int? EmpresaId { get; set; }
 
-        public string NombrePlato { get; set; }
+        public string? NombrePlato { get; set; }
 
-        public string DescripcionPlato{ get; set; }
+        public string? DescripcionPlato { get; set; }
 
-        public decimal Precio{ get; set; }
+        public decimal? Precio { get; set; }
 
-        public string TiempoPreparacion { get; set; }
+        public string? TiempoPreparacion { get; set; }
 
-        public char AplicaPropina { get; set; }
-
-
-        public char Estado { get; set; }
-        public char Lunes { get; set; }
-        public char Martes { get; set; }
-        public char Miercoles{ get; set; }
-        public char Jueves { get; set; }
-        public char Viernes { get; set; }
-        public char Sabado { get; set; }
-        public char Domingo{ get; set; }
+        public char? AplicaPropina { get; set; }
 
 
-        public DateTime FechaCreacion{ get; set; }
+        public char? Estado { get; set; }
+        public char? Lunes { get; set; }
+        public char? Martes { get; set; }
+        public char? Miercoles { get; set; }
+        public char? Jueves { get; set; }
+        public char? Viernes { get; set; }
+        public char? Sabado { get; set; }
+        public char? Domingo { get; set; }
 
 
-        public DateTime FechaModificacion { get; set; }
+        public DateTime? FechaCreacion { get; set; }
+
+
+        public DateTime? FechaModificacion { get; set; }
 
     }
 }

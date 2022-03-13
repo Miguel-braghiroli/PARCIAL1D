@@ -10,12 +10,12 @@ namespace PARCIAL1D.models
     {
         [Key]
         public int MesaId { get; set; }
-        public int EmpresaId { get; set; }
-        public String DescripcionMesa { get; set; }
-        public String ZonaMesa { get; set; }
-        public int SillasMesa { get; set; }
-        public String Estado { get; set; }
-        public DateTime FechaCreacion { get; set; }
-        public DateTime FechaModificacion { get; set; }
+        public int? EmpresaId { get; set; }
+        public String? DescripcionMesa { get; set; }
+        public String? ZonaMesa { get; set; }
+        public int? SillasMesa { get; set; }
+        public String? Estado { get; set; }
+        public DateTime? FechaCreacion { get; set; }
+        public DateTime? FechaModificacion { get; set; }
     }
 }
