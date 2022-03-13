@@ -112,3 +112,5 @@ C:\UNICAESWEB\PARCIAL1D\obj\Debug\net5.0\PARCIAL1D.dll
 C:\UNICAESWEB\PARCIAL1D\obj\Debug\net5.0\ref\PARCIAL1D.dll
 C:\UNICAESWEB\PARCIAL1D\obj\Debug\net5.0\PARCIAL1D.pdb
 C:\UNICAESWEB\PARCIAL1D\obj\Debug\net5.0\PARCIAL1D.genruntimeconfig.cache
+C:\UNICAESWEB\PARCIAL1D\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\UNICAESWEB\PARCIAL1D\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll

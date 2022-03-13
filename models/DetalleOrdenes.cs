@@ -9,7 +9,7 @@ namespace PARCIAL1D.models
     public class DetalleOrdenes
     {
         [Key]
-        public int DetalleOrdenId { get; set; }
+        public int? DetalleOrdenId { get; set; }
         public int? EncabezadoOrdenId { get; set; }
         public int? EmpresaId { get; set; }
         public int? PlatoId { get; set; }

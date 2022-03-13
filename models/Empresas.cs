@@ -10,15 +10,15 @@ namespace PARCIAL1D.models
     {
         [Key]
         public int EmpresaId { get; set; }
-        public String? NombreEmpresa { get; set; }
-        public String? Representante { get; set; }
-        public String? NIT { get; set; }
-        public String? NRC { get; set; }
-        public String? Direcccion { get; set; }
-        public String? Correo { get; set; }
-        public String? Telefonos { get; set; }
-        public String? Estado { get; set; }
-        public DateTime? FechaCreacion { get; set; }
-        public DateTime? FechaModificacion { get; set; }
+        public String NombreEmpresa { get; set; }
+        public String Representante { get; set; }
+        public String NIT { get; set; }
+        public String NRC { get; set; }
+        public String Direcccion { get; set; }
+        public String Correo { get; set; }
+        public String Telefonos { get; set; }
+        public String Estado { get; set; }
+        public DateTime FechaCreacion { get; set; }
+        public DateTime FechaModificacion { get; set; }
     }
 }
