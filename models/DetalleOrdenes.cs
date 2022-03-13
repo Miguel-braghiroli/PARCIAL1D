@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -7,7 +8,7 @@ namespace PARCIAL1D.models
 {
     public class DetalleOrdenes
     {
-
+        [Key]
         public int DetalleOrdenId { get; set; }
         public int EncabezadoOrdenId { get; set; }
         public int EmpresaId { get; set; }

@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\practicasasp\\PARCIAL1D\\PARCIAL1D.csproj": {}
   },
   "projects": {
@@ -18,6 +19,22 @@
         ],
         "configFilePaths": [
           "C:\\Users\\Mery Acevedo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\UNICAESWEB\\PARCIAL1D\\PARCIAL1D.csproj": {}
+  },
+  "projects": {
+    "C:\\UNICAESWEB\\PARCIAL1D\\PARCIAL1D.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\UNICAESWEB\\PARCIAL1D\\PARCIAL1D.csproj",
+        "projectName": "PARCIAL1D",
+        "projectPath": "C:\\UNICAESWEB\\PARCIAL1D\\PARCIAL1D.csproj",
+        "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
+        "outputPath": "C:\\UNICAESWEB\\PARCIAL1D\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 168025277ed726a3385c8e2b502a1d96c8825d61
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,7 +91,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+>>>>>>> 168025277ed726a3385c8e2b502a1d96c8825d61
         }
       }
     }
