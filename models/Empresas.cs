@@ -7,6 +7,7 @@ namespace PARCIAL1D.models
 {
     public class Empresas
     {
+        
         public int EmpresaId { get; set; }
         public String NombreEmpresa { get; set; }
         public String Representante { get; set; }
